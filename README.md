@@ -6,6 +6,13 @@ In this project we're going to creat an advanced Notepad using PyQt5. In this no
 <p align="center">
 ![alt text](https://github.com/cavendishsama/dummy/blob/main/resources/editor.png)
 </p>
+<br>
+<p align="center">
+<img src="resources/edit.png" alt="minor"
+title="plot" width="500" align="middle" />
+</p>
+<br>
+
 
 ## show temp
 
