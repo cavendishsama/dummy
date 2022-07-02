@@ -18,14 +18,13 @@ title="plot" width="700" align="middle" />
   - Normalizer:UTF-8 Normalizer of file-name and file-path etc.
   - Clipboard: copy, cut, paste, select all
   - Keyboard shortcuts: U can use all generic shortcuts like **Ctrl+O** open, **Ctrl+S** save, **Ctrl+B** Bold, **Ctrl+U** Underline, etc.
-- Stable, performant, crash proof LOL
 - text features:
   - Changing color
   - Changing font style and size
   - **Bold**, <ins>Underline</ins>, *italic* your text
   - Align to right, center and left
   - Many many more undiscoveres
-
+- Stable, performant, crash proof LOL
 ## Roadmap
 It's just a school project U lookin for a ROADMAP????!!
 
