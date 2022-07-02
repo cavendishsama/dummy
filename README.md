@@ -9,5 +9,6 @@ In this project we're going to creat an advanced Notepad using PyQt5. In this no
 title="plot" width="500" align="middle" />
 </p>
 <br>
+
 ## show temp
 
