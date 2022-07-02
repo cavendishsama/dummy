@@ -12,6 +12,8 @@ In this project we're going to creat an advanced Notepad using PyQt5. In this no
 title="plot" width="500" align="middle" />
 </p>
 <br>
+![editor](https://user-images.githubusercontent.com/99114953/177010357-39da8e4a-9b88-4894-b3e7-a48dbfb7b600.png)
+
 
 
 ## show temp
